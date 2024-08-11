@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryOne">#1E90FF</color>
+    <color name="primaryTwo">#32CD32</color>
+    <color name="primaryThree">#9B59B6</color>
+    <color name="secondaryOne">#20C997</color>
+    <color name="secondaryTwo">#008080</color>
+    <color name="hint_color_dark">#B0BEC5</color> <!-- Lighter gray color for dark mode -->
+    <color name="hint_color_light">#757575</color> <!-- Gray color for light mode -->
+
+
+</resources>
