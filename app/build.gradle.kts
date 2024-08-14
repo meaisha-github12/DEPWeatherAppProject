@@ -55,4 +55,9 @@ dependencies {
     // Gson
     implementation(libs.gson)
     implementation(libs.kotlinx.serialization.json)
+    implementation(libs.androidx.core.ktx.v1120)
+    implementation(libs.androidx.work.runtime.ktx)
+    implementation(libs.retrofit)
+    implementation(libs.converter.gson)
+    implementation(libs.logging.interceptor)
 }
